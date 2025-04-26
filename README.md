@@ -7,6 +7,7 @@ Zaliczenie na ocenę
 ## Lista autorów
 - Alan Wodarz
 - Wodarz Alan
+- Testowa zmiana treści pliku
 
 ---
 
